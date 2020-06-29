@@ -1,5 +1,5 @@
 ---
-permalink: /start.html
+permalink: /index.html
 ---
 
 
